@@ -1,0 +1,48 @@
+# Simulador de Sistema Bancário Simples
+
+Este projeto é um simulador de sistema bancário simples desenvolvido em C++. O objetivo é permitir a criação de contas bancárias, além de possibilitar a realização de depósitos, saques, transferências, consultas de saldos e exibição de extratos.
+
+## Como Usar
+
+### 1. Compilação
+
+Para compilar o código, execute o seguinte comando no terminal:
+
+```bash
+g++ simulador_bancario_simples.cpp -o simulador
+```
+
+### 2. Execução
+
+Após compilar, execute o programa com o seguinte comando:
+
+```bash
+./simulador
+```
+
+### 3. Instruções na Tela
+
+O programa irá exibir um menu interativo com as opções disponíveis. Basta seguir as instruções na tela para realizar as operações desejadas.
+
+## Funcionalidades
+
+- **Criar contas bancárias**
+- **Realizar depósitos**
+- **Realizar saques**
+- **Realizar transferências entre contas**
+- **Consultar saldo das contas**
+- **Exibir extrato das contas**
+- **Listar todas as contas cadastradas**
+
+## Contribuições
+
+Contribuições são muito bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas. Fique à vontade para contribuir com novas funcionalidades, melhorias no código ou sugestões.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+
+## Contato
+
+Eliezer Tavares de Oliveira  
+Email: eliezertavaresdeoliveira@gmail.com
